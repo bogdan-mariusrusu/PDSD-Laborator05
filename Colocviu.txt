@@ -1,0 +1,28 @@
+Laboratorul 1:
+	git add, commit, clone, push, pull, config
+	Configurarea unui proiect Eclipse
+Laboratorul 2:
+	Activitati
+	Configurare, restaurare
+	DDMS, LogCat
+Laboratorul 3:
+	Controller : TextView, CheckBox, Button
+	EditText, Toast, makeTextShow -> fereastra ce apare pe o perioada
+determinata
+	Layout : RelativeLayout, LinearLayout, GridLayout
+Laboratorul 4:
+	Intentii
+
+Sectiuni :
+(A) -  40%
+1. Repository pe Github - 5%
+2. Aduceti repository local - 5%
+3. Creati un proiect Eclipse - 15%
+4. Activitate / Interfata grafica - 15%
+(B) - 30%
+5. Adaugati ascultatori pe controalele grafice - 15%
+6. Salvare / Restaurare a starii - 15%
+(C) - 30%
+7. Adaugati o activitate secundara - 15%
+8. Creati un buton in activitatea secundara - 10%
+9. Urcati repository-ul
